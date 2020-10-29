@@ -1,1 +1,1 @@
-Learning GIT
+Learning GIT now!
